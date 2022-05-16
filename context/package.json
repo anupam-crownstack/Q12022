@@ -1,5 +1,5 @@
 {
-  "name": "react-final-form",
+  "name": "redux",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -8,15 +8,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "final-form": "^4.20.7",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "react-final-form": "^6.5.9"
+    "react-dom": "^18.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
     "@vitejs/plugin-react": "^1.3.0",
-    "vite": "^2.9.2"
+    "vite": "^2.9.9"
   }
 }
